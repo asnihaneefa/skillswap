@@ -27,37 +27,6 @@ SkillSwap is a lightweight, responsive web application designed to connect stude
 
 ---
 
-## 📁 Project Structure
-
-```text
-skillswap/
-├── index.html        # Main single-page application file containing structure, styling, and scripts
-└── README.md         # Project documentation
-```
-
----
-
-## 🚀 Getting Started
-
-Since SkillSwap runs as a standalone client-side web application, no build tools or package managers are required.
-
-### Prerequisites
-- Any modern web browser (Google Chrome, Mozilla Firefox, Safari, Microsoft Edge).
-
-### Installation & Execution
-1. Clone or download this repository:
-   ```bash
-   git clone https://github.com/your-username/skillswap.git
-   ```
-2. Navigate to the project folder:
-   ```bash
-   cd skillswap
-   ```
-3. Open `index.html` in your web browser:
-   - **Option A:** Double-click `index.html` in your file explorer.
-   - **Option B:** Serve via VS Code's *Live Server* extension.
-
----
 
 ## ⚙️ How It Works
 
