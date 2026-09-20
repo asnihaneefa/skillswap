@@ -43,9 +43,3 @@ SkillSwap is a lightweight, responsive web application designed to connect stude
 - [ ] **Authentication:** JWT-based user login and session management.
 - [ ] **Direct Messaging / Chat:** Real-time peer-to-peer chat for scheduling learning sessions using WebSockets/Socket.io.
 - [ ] **Calendar Integration:** Schedule exchange sessions with built-in Google Calendar synchronization.
-
----
-
-## 📄 License
-
-Distributed under the MIT License. See `LICENSE` for more information.
